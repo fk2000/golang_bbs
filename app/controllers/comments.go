@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/revel/revel"
-	"github.com/shiro16/golang-bbs/app/models"
+	"github.com/fk2000/golang-bbs/app/models"
 	"net/http"
 )
 

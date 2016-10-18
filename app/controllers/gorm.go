@@ -7,7 +7,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"
 	"github.com/revel/revel"
-	"github.com/shiro16/golang-bbs/app/models"
+	"github.com/fk2000/golang-bbs/app/models"
 )
 
 var DB *gorm.DB
