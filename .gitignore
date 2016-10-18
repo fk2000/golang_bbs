@@ -2,7 +2,6 @@
 test-results/
 tmp/
 routes/
-conf/app.conf
 =======
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
